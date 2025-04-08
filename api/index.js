@@ -54,7 +54,7 @@ async function onUpdate(data, botApi, Reactions, RestrictedChats, botUsername, R
                     { "text": "➕ Add to Group ➕", "url": `https://t.me/${botUsername}?startgroup=botstart` },
                 ],
                 [
-                    { "text": "Github Source 📥", "url": "https://github.com/BABY-X-MUSIC/reaction" },
+                    { "text": "Github Source 📥", "url": "https://t.me/UFC_NETWORK" },
                 ],
                 [
                     { "text": "💝 Support Us - Donate 🤝", "url": "https://t.me/EVELYN_UFC_BOT?start=donate" }
